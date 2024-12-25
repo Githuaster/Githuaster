@@ -1,16 +1,29 @@
 # About me 👋
 
+> [!NOTE]
+> - 🔭 **I’m** ***currently*** *working* ~~on~~ <sub>coding</sub>
 
-**Githuaster/Githuaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!TIP]
+> * 🌱 <sup>I’m</sup> <ins>currently</ins> learning coding
 
-Here are some ideas to get you started:
+> [!IMPORTANT]
+> + 👯 I’m looking to collaborate coding
 
-- 🔭 I’m currently working on coding
-- 🌱 I’m currently learning coding
-- 👯 I’m looking to collaborate on creating SAO
-- 🤔 I’m looking for help with coding
-- 💬 Ask me about anything
-- 📫 How to reach me: 2b4e6n8@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am cooked
+> [!WARNING]
+> 1. 🤔 I’m looking for help with coding
+> 2. 💬 Ask me about Emoji: [GitHub emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+> [!CAUTION]
+> - 📫 How to reach me: 2b4e6n8@gmail.com
+  - [ ] 😄 Pronouns: he/him
+> - [x] ⚡ Fun fact: [^1]
+
+[^1]: The background color is `#ffffff` for light mode and `#000000` for dark mode
+
+<!-- This content will not appear in the rendered Markdown -->
+
+```
+git pull
+```
+
+![cute pepe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Si0f7QRbolu9Iecsq6VR6mseG5JzsJeDEQ&s)
